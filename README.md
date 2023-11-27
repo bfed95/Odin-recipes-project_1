@@ -8,4 +8,3 @@ Needs to contain:
     images
     functional code
     <https://www.theodinproject.com/lessons/foundations-git-basics>
-<<-- Need to update the code on Read me to display a list instead of plain text -->>
