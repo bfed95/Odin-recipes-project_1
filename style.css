@@ -10,6 +10,21 @@ html{
     font-weight: 800;
 }
 .links{
-    background-color:#D8AB44;
     font: size 32px;
+    text-align: left;
+}
+.links #lasagna{
+    background-color: #c9A42A;
+    color:#E51837;
+    font-weight: 800;
+}
+.links #paprika-chicken-rice{
+    background-color: #c9A42A;
+    color:#E51837;
+    font-weight: 800;
+}
+.links #teriyaki-chicken{
+    background-color: #c9A42A;
+    color:#E51837;
+    font-weight: 800;
 }
